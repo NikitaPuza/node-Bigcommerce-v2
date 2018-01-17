@@ -13,7 +13,7 @@ Bigcommerce.config = {
 };
 
 Bigcommerce.get = async config => {
-  config.method = "PUT";
+  config.method = "GET";
   return await request(config);
 };
 Bigcommerce.put = async (config, payload) => {

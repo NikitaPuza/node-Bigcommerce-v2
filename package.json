@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/NikitaPuza/node-Bigcommerce-v2/issues"
   },
+  "directories": {
+    "lib": "./lib",
+    "doc": "README.md"
+    },
   "homepage": "https://github.com/NikitaPuza/node-Bigcommerce-v2#readme"
 }

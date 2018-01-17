@@ -1,19 +1,19 @@
 {
   "name": "bigccomerce-node-v2",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "BigCommerce v2 API library",
   "main": "bigcommerce.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: need to write tests!\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bc-NikitaPuzanenko/node-Bigcommerce-v2.git"
+    "url": "git+https://github.com/NikitaPuza/node-Bigcommerce-v2.git"
   },
-  "author": "",
+  "author": "Nikita Puzanenko",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bc-NikitaPuzanenko/node-Bigcommerce-v2/issues"
+    "url": "https://github.com/NikitaPuza/node-Bigcommerce-v2/issues"
   },
-  "homepage": "https://github.com/bc-NikitaPuzanenko/node-Bigcommerce-v2#readme"
+  "homepage": "https://github.com/NikitaPuza/node-Bigcommerce-v2#readme"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "bigccomerce-node-v2",
+  "name": "bigcommerce-node-v2",
   "version": "1.0.0",
   "description": "BigCommerce v2 API library",
   "main": "bigcommerce.js",

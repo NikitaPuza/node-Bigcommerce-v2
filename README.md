@@ -1,11 +1,11 @@
-# node-Bigcommerce-v2
+# bigcommerce-node-v2
 
 A very basic Promise library for connecting to the v2 BigCommerce API.
 ## Example using Express
 
 ```
 const express = require('express');
-const client = require('../lib/bigcommerce');
+const client = require('bigcommerce');
 const router = express.Router();
 
 router.post('/', (req, res) => {
